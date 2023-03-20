@@ -1,0 +1,16 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+}
+
+h3 {
+    color: orange;
+}
+
+li {
+    font-family: fantasy;
+}
+body {
+    background-color: aqua;
+    margin: 30px;
+}
